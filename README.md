@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Garvit+Sharma;Junior+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;AI+Enthusiast;IPL+Data+Analytics+Project;Open+to+Internships+and+Opportunities" />
+</p>
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on:<br>- IPL Data Analysis Dashboard using Python, Pandas, and Power BI<br>- Data Analytics and Visualization Projects<br>- Building my Data Analytics Portfolio<br><br>👯 I’m looking to collaborate on:<br>- Data Analytics Projects<br>- Business Intelligence Dashboards<br>- Machine Learning and AI Applications<br><br>🤝 I’m looking for help with:<br>- Advanced Power BI<br>- Machine Learning<br>- Data Engineering<br>- Real-world Analytics Projects<br><br>🌱 I’m currently learning:<br>- Machine Learning<br>- Advanced SQL<br>- Power BI<br>- Data Engineering Fundamentals<br>- Generative AI<br><br>💬 Ask me about:<br>- Python<br>- SQL<br>- Pandas<br>- NumPy<br>- Power BI<br>- Data Visualization<br>- Exploratory Data Analysis (EDA)<br><br>⚡ Fun fact:<br>I enjoy transforming raw datasets into meaningful insights and interactive dashboards. From AI-powered applications to IPL analytics, I love solving problems using data.
 
