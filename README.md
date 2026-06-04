@@ -1,120 +1,24 @@
-# Hi 👋 I'm Garvit Sharma
+# 💫 About Me:
+🔭 I’m currently working on an IPL Data Analysis Dashboard using Python, Pandas, and Power BI<br><br>👯 I’m looking to collaborate on Data Analytics, Business Intelligence, and AI Projects<br><br>🤝 I’m looking for opportunities in Data Analytics, Business Intelligence, and AI Internships<br><br>🌱 I’m currently learning Machine Learning, Advanced Power BI, and Data Engineering Concepts<br><br>💬 Ask me about Python, SQL, Power BI, EDA, Pandas, NumPy, and Data Visualization<br><br>⚡ Fun fact: Built projects ranging from AI Interview Trainer applications to Data Analytics Dashboards while pursuing a BCA in Data Science.
 
-### Junior Data Analyst | AI Enthusiast | Python • SQL • Power BI
 
-Data-focused BCA (Data Science) student passionate about transforming raw data into actionable insights. Experienced in Exploratory Data Analysis (EDA), dashboard development, SQL querying, and Python-based analytics projects.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garvit_sharma_5932) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/garvit-sharma-0029433b5) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/garvitsharma2950) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@garvitShar92508) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Garvit Sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:garvitsharma2950@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=GARVITSHARMA1624&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=GARVITSHARMA1624&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=GARVITSHARMA1624&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=GARVITSHARMA1624&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-* 🎓 BCA (Data Science) Student at IMS Ghaziabad University
-* 📊 Aspiring Data Analyst
-* 🤖 Interested in Artificial Intelligence & Machine Learning
-* 📈 Skilled in Python, SQL, Power BI, Pandas, NumPy, and Data Visualization
-* 🌱 Currently learning Advanced Analytics and Machine Learning
-
----
-
-## 🛠️ Technical Skills
-
-**Languages & Databases**
-
-* Python
-* SQL
-* SQLite
-
-**Data Analytics**
-
-* Pandas
-* NumPy
-* EDA
-* Data Visualization
-* Power BI
-* Seaborn
-
-**Tools**
-
-* Git & GitHub
-* Jupyter Notebook
-* Google Colab
-
-**Development**
-
-* MERN Stack
-* JavaScript
-* Chrome APIs
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=GARVITSHARMA1624&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=GARVITSHARMA1624&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📂 Featured Projects
-
-### 🏏 IPL Data Analysis Dashboard
-
-**Tech Stack:** Python, Pandas, NumPy, Power BI, Matplotlib, Seaborn
-
-* Performed Exploratory Data Analysis (EDA) on IPL datasets containing ball-by-ball and match-level data.
-* Cleaned and transformed large datasets using Pandas and NumPy.
-* Analyzed team performance, player statistics, batting trends, bowling records, and venue insights.
-* Created interactive Power BI dashboards with KPIs, filters, and visual storytelling.
-* Generated actionable insights to identify top-performing teams, players, and match-winning factors.
-
-**Skills:** Data Cleaning • EDA • Data Visualization • Power BI • Python • Analytics
-
----
-
-### 🤖 AI Interview Trainer
-
-**Tech Stack:** Python, ReactJS, NodeJS
-
-* Developed an AI-assisted interview preparation platform to simulate technical interview interactions.
-* Designed structured interview workflows for technical and behavioral practice.
-* Focused on user experience optimization and response flow management.
-* Built a scalable full-stack architecture using ReactJS and NodeJS.
-
-**Skills:** Python • ReactJS • NodeJS • Full Stack Development
-
----
-
-### 🏨 Hospitality Management System
-
-**Tech Stack:** Python, SQLite, Pandas
-
-* Developed a database-driven hospitality management system for handling operational records.
-* Implemented efficient data storage and retrieval using SQLite.
-* Improved accessibility and organization of structured business information.
-* Utilized Pandas for data processing and reporting.
-
-**Skills:** Python • SQLite • Pandas • Database Management
-
----
-
-### 🌐 Chrome Extension for Custom Shortcuts
-
-**Tech Stack:** JavaScript, Chrome APIs
-
-* Built a browser extension enabling customizable productivity shortcuts.
-* Automated repetitive browser tasks to improve workflow efficiency.
-* Implemented shortcut management and browser integration using Chrome APIs.
-* Enhanced usability through a lightweight and user-friendly design.
-
-**Skills:** JavaScript • Chrome APIs • Automation • Browser Extensions.
-
----
-
-## 📜 Certifications
-
-* Full Stack Web Development with MERN Stack – IIT Kanpur
-* Data Science Methodology – Cognitive Class
-* Introduction to Generative AI: Art of the Possible – Amazon
-* Basic Python and R Programming – Amazon
-
----
-
-## 📫 Connect With Me
-
-📧 Email: [garvitsharma29502@gmail.com](mailto:garvitsharma29502@gmail.com)
-
-💼 LinkedIn: https://www.linkedin.com/in/garvit-sharma-0029433b5
-
-📍 Hapur, Uttar Pradesh, India
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
